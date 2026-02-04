@@ -1,7 +1,7 @@
 # Dasai-Mochi
 In this project I will be making a dasai mochi.
 I wanted to built it as I actually really want to have a pet, but as I am currently living in dormitory, it is not allowed. 
-So, I wanted to make my own robot pet to lighten up my mood
+So, I wanted to make my own robot pet to lighten up my mood or to accompany me here.
 ## Key Features
 * **ESP32C3** is the main microcontroller 
 * **OLED display 128 x 64 px** for displaying the faces and current state of emotion
