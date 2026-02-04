@@ -16,6 +16,8 @@ The final design
 * **Buzzer loud bottom speaker** to make cute sounds
 * **On-Off Mini Slide Switch 3pin 1P2T** to regulate the power supply from battery
 * **MAX98357A Audio amplifier** to take digital audio data directly from a microcontroller and amplify it to drive a speaker
+* **4 Heat insert** to connect the top and bottom part of the case
+
 ## Component connection
 The connection is designed in KiCad. 
 Here's the schematic diagram of my Dasai Mochi
