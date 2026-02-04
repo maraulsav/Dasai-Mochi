@@ -36,6 +36,23 @@ Top Part
 <img width="1024" height="671" alt="Screenshot 2026-02-04 at 18 18 51" src="https://github.com/user-attachments/assets/31716484-7af9-4141-9cc8-9187b9cc3b3a" />
 To connect those two parts I will use the heat set insert for M3 bolts to connect those two case
 
+## BOM
+| Item                                                     | Quantity | Unit Price (IDR) | Total Price (IDR) | Link                                                                                                                                                                           |
+| -------------------------------------------------------- | -------: | ---------------: | ----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| USB Type-C Mini Charger Module (5V / 4.2V / 3.7V, 18650) |        1 |         Rp12.000 |          Rp12.000 | [Link](https://www.tokopedia.com/awallaptop/usb-type-c-mini-modul-charge-charger-type-c-5v-4-2v-3-7v-18650-lithium)                                                            |
+| Rechargeable Battery CR123 / 16340 3.7V 1300mAh          |        2 |          Rp9.000 |          Rp18.000 | [Link](https://www.tokopedia.com/sehat-sejahtera-makmur/ssm-baterai-cas-cr123-batu-batrai-lc-16340-battery-3-7v-1300-mah-batere-rechargeable-1731313326437205378)              |
+| Buzzer Loud Speaker (Samsung type)                       |        1 |          Rp5.900 |           Rp5.900 | [Link](https://www.tokopedia.com/a1accessories/buzzer-loud-speaker-bawah-samsung-a10-a20-a30-a50-m10)                                                                          |
+| OLED 1.3" 128×64 SPI Display (4-Pin)                     |        1 |         Rp48.500 |          Rp48.500 | [Link](https://www.tokopedia.com/alfaelectro/oled-1-3-inch-128x64-spi-lcd-led-display-4pin-1731738037238990352)                                                                |
+| Switch 3-Pin                                             |       10 |            Rp500 |           Rp5.000 | [Link](https://www.tokopedia.com/arduinonano/ss12d00-g4-toggle-switch-saklar-on-off-2-position-3p-slide-geser-3pin)                                                            |
+| TTP223 Touch Sensor                                      |        2 |          Rp2.500 |           Rp5.000 | [Link](https://www.tokopedia.com/khurs-iot/ttp223-modul-tombol-sentuh-touch-sensor-capacitive-switch-board)                                                                    |
+| Jumper Wire Dupont 20cm (Male-Male)                      |        1 |          Rp5.000 |           Rp5.000 | [Link](https://www.tokopedia.com/arduinonano/kabel-jumper-cable-dupont-pelangi-20cm-header-cable-pin-rainbow-20-cm-male-male)                                                  |
+| Brass Heat Insert (30 pcs)                               |        1 |         Rp53.000 |          Rp53.000 | [Link](https://www.tokopedia.com/indocart/3d-printer-tools-compatible-brass-heat-insert-nuts-double-twill-knurled-injection-copper-thread-inserts-x-30pcs-1731656093817144863) |
+| ESP32-C3 Super Mini                                      |        1 |         Rp38.900 |          Rp38.900 | [Link](https://www.tokopedia.com/alfaelectro/esp32-c3-super-mini-wifi-wireless-bluetooth-esp32-c3)                                                                             |
+| MAX98357A I2S 3W Class-D Amplifier                       |        1 |         Rp55.000 |          Rp55.000 | [Link](https://www.tokopedia.com/alfaelectro/max98357-i2s-3w-class-d-amplifier-dac-decoder-module-max98357a-1733864629661500944)                                               |
+| Self-Tapping Screw M3×10                                 |        1 |            Rp100 |           Rp1.000 | [Link](https://www.tokopedia.com/centi-store/self-tapping-screw-sekrup-skrup-countersunk-fh-m3-m4-m5-m6-flat-head-counter-sunk-8mm-16mm-20mm-50mm-1731498892436342400)         |
+| **TOTAL COMPONENTS**                                     |          |                  |     **Rp247.300** |                                                                                                                                                                                |
+
+
 ## Extra stuff
 Thankyou for KiCad, Fusion360, and Blueprint Hackclub to make this project possible
 
