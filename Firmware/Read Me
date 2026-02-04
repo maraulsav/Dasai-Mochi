@@ -1,3 +1,5 @@
 Here contain my arduino code for my Dasai Mochi. 
 I make it in Arduino app. For debugging you can use the wokwi.com to see if your code working or not.
 But, notes that the wokwi.com do not contain the TTP223 sensor, so you have to test your code separately.
+
+You can just download my codes and open it in arduino ide 
