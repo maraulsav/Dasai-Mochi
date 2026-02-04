@@ -1,0 +1,5 @@
+Hello!
+This folder contain my schematic design. I made it from Ki-Cad.
+In this project, I chose to not convert it to PCB so that I can just make a flexible wiring inside of the dasai mochi (wire can bend while PCB not).
+Not only that this would save up some cost, as PCB printing here (in Indonesia) cost around IDR 100.000 or around USD 6 (Just for one PCB).
+This schematic can be the guide for you to connect the components, just follow the wire connect what pin to what pin.. It should be fine
