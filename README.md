@@ -5,7 +5,7 @@ So, I wanted to make my own robot pet to lighten up my mood or to accompany me h
 
 The final design
 
-<img width="466" height="410" alt="Screenshot 2026-02-04 at 18 24 19" src="https://github.com/user-attachments/assets/8f3c9df6-be83-446e-9694-49765d096714" />
+<img width="586" height="567" alt="Screenshot 2026-03-27 at 21 20 41" src="https://github.com/user-attachments/assets/5d3010de-a6ec-42dd-a327-926f717850e2" />
 
 
 ## Key Features
@@ -29,12 +29,13 @@ I make this design in Fusion360
 
 Bottom Part
 
-<img width="453" height="470" alt="Screenshot 2026-02-04 at 18 17 39" src="https://github.com/user-attachments/assets/09148df6-4bd0-4c62-aca5-b25d9ee4ce97" />
+
+<img width="618" height="497" alt="Screenshot 2026-03-27 at 21 22 00" src="https://github.com/user-attachments/assets/bf9c09d9-f9d1-4c78-8a99-7ebc2b3a0cbf" />
 
 Top Part
 
-<img width="1024" height="671" alt="Screenshot 2026-02-04 at 18 18 51" src="https://github.com/user-attachments/assets/31716484-7af9-4141-9cc8-9187b9cc3b3a" />
-To connect those two parts I will use the heat set insert for M3 bolts to connect those two case
+<img width="411" height="371" alt="Screenshot 2026-03-27 at 21 22 31" src="https://github.com/user-attachments/assets/32c2674e-7bdb-4b9c-969a-2be28cefe7f5" />
+
 
 ## BOM
 | Item                                                     | Quantity | Unit Price (IDR) | Total Price (IDR) | Link                                                                                                                                                                           |
