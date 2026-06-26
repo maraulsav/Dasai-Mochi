@@ -1,4 +1,9 @@
 # Dasai-Mochi
+Final product:
+<img width="598" height="522" alt="Screenshot 2026-06-26 at 12 31 29" src="https://github.com/user-attachments/assets/2f5a6fb4-a490-4037-a295-f9bdf456bc5f" />
+<img width="621" height="538" alt="Screenshot 2026-06-26 at 12 31 52" src="https://github.com/user-attachments/assets/a9c760c7-d9bb-489d-92aa-d5fb966b817d" />
+
+
 In this project I will be making a dasai mochi.
 I wanted to built it as I actually really want to have a pet, but as I am currently living in dormitory, it is not allowed. 
 So, I wanted to make my own robot pet to lighten up my mood or to accompany me here.
